@@ -9,9 +9,11 @@ app.get('/', (req, res) => {
     res.send('chef is running');
 })
 
+const chefBio = require('./Data/chef.json');
 
-
-
+app.get('/chefBio',(req,res)=>{
+    res.send(chefBio);
+})
 
 
 
@@ -25,5 +27,5 @@ app.get('/', (req, res) => {
 
 
 app.listen(port, () => {
-    console.log(`dragon is running on port : ${port}`)
+    console.log(`chef is running on port : ${port}`)
 })
