@@ -8,65 +8,115 @@
     "likes": 500,
     "description": "Apruba Roy is a highly experienced chef with 10 years in the culinary industry. With a portfolio of 50 recipes, Apruba brings creativity and expertise to every dish. Known for his culinary finesse, Apruba's recipes are loved by food enthusiasts. His dedication and passion have earned him a substantial following, with 500 likes on his dishes.",
     "recipeName": "Bengali Fish Curry",
-    "ingredients": ["Fish", "Onion", "Tomato", "Turmeric", "Mustard oil"],
+    "ingredients": [
+      "Fish",
+      "Onion",
+      "Tomato",
+      "Turmeric",
+      "Mustard oil"
+    ],
     "cookingMethod": "1. Marinate the fish with turmeric and salt.\n2. Heat mustard oil in a pan and fry the fish until golden brown. Set aside.\n3. In the same pan, sauté the onions until translucent.\n4. Add the tomatoes and cook until they soften.\n5. Add turmeric, salt, and water to make a gravy.\n6. Add the fried fish and simmer for a few minutes.\n7. Serve hot with steamed rice.",
     "rating": 4.5,
     "favorite": false
-  
-},
-{
-  "id": "102",
-  "chefPicture": "https://i.ibb.co/PwLvtZD/nisho.png",
-  "chefName": "Arfan Nisho",
-  "yearsOfExperience": 8,
-  "numberOfRecipes": 40,
-  "likes": 300,
-  "description": "Arfan Nisho is a skilled chef with 8 years of experience. Having crafted 40 delightful recipes, Nisho's culinary prowess shines through his creations. His dishes captivate the taste buds of food lovers. With 300 likes, Nisho's recipes are a testament to his talent and dedication.",
-  "title": "Beef Bhuna",
-  "recipe": "Ingredients:\n\n500g beef\n2 onions\n4 cloves of garlic\n2-inch ginger\n2 tomatoes\n2 green chilies\n1 tablespoon red chili powder\n1 teaspoon turmeric powder\n1 teaspoon cumin powder\n1 teaspoon coriander powder\n1 teaspoon garam masala\nSalt to taste\nOil for cooking\n\nInstructions:\n\n1. Marinate the beef with salt, turmeric powder, and red chili powder.\n2. Heat oil in a pan and fry the onions until golden brown.\n3. Add the garlic and ginger paste and cook for a minute.\n4. Add the marinated beef and cook until it turns brown.\n5. Add the tomatoes, green chilies, and the remaining spices.\n6. Cover and cook on low heat until the beef is tender and the spices are well blended.\n7. Garnish with coriander leaves and serve hot with rice or naan."
-},
-{
-  "id": "103",
-  "chefPicture": "https://i.ibb.co/sqsBFLQ/Mahfuz.png",
-  "chefName": "Mahfuz ahmed",
-  "yearsOfExperience": 12,
-  "numberOfRecipes": 60,
-  "likes": 800,
-  "description": "Mahfuz Ahmed, with 12 years of experience, is a culinary maestro. His repertoire includes 60 delectable recipes that showcase his expertise and innovation. Known for his flavorful dishes, Mahfuz's creations have garnered immense popularity, with 800 likes. His culinary journey is a testament to his passion and commitment.",
-  "title": "Beef Bhuna",
-  "recipe": "Ingredients:\n\n500g beef\n2 onions\n4 cloves of garlic\n2-inch ginger\n2 tomatoes\n2 green chilies\n1 tablespoon red chili powder\n1 teaspoon turmeric powder\n1 teaspoon cumin powder\n1 teaspoon coriander powder\n1 teaspoon garam masala\nSalt to taste\nOil for cooking\n\nInstructions:\n\n1. Marinate the beef with salt, turmeric powder, and red chili powder.\n2. Heat oil in a pan and fry the onions until golden brown.\n3. Add the garlic and ginger paste and cook for a minute.\n4. Add the marinated beef and cook until it turns brown.\n5. Add the tomatoes, green chilies, and the remaining spices.\n6. Cover and cook on low heat until the beef is tender and the spices are well blended.\n7. Garnish with coriander leaves and serve hot with rice or naan."
-},
-{
-  "id": "104",
-  "chefPicture": "https://i.ibb.co/wh1qrpJ/shakib.png",
-  "chefName": "Shakib Khan",
-  "yearsOfExperience": 5,
-  "numberOfRecipes": 30,
-  "likes": 200,
-  "description": "Shakib Khan is a talented chef with 5 years of experience. Despite his relatively short career, Shakib has curated 30 impressive recipes that demonstrate his culinary finesse. With 200 likes, Shakib's creations have gained recognition for their unique flavors and presentation.",
-  "title": "Beef Bhuna",
-  "recipe": "Ingredients:\n\n500g beef\n2 onions\n4 cloves of garlic\n2-inch ginger\n2 tomatoes\n2 green chilies\n1 tablespoon red chili powder\n1 teaspoon turmeric powder\n1 teaspoon cumin powder\n1 teaspoon coriander powder\n1 teaspoon garam masala\nSalt to taste\nOil for cooking\n\nInstructions:\n\n1. Marinate the beef with salt, turmeric powder, and red chili powder.\n2. Heat oil in a pan and fry the onions until golden brown.\n3. Add the garlic and ginger paste and cook for a minute.\n4. Add the marinated beef and cook until it turns brown.\n5. Add the tomatoes, green chilies, and the remaining spices.\n6. Cover and cook on low heat until the beef is tender and the spices are well blended.\n7. Garnish with coriander leaves and serve hot with rice or naan."
-},
-{
-  "id": "105",
-  "chefPicture": "https://i.ibb.co/Fh8PGXF/salman.png",
-  "chefName": "Salman shah",
-  "yearsOfExperience": 15,
-  "numberOfRecipes": 80,
-  "likes": 1200,
-  "description": "Salman Shah is an esteemed chef with a remarkable culinary journey spanning 15 years. With 80 extraordinary recipes, Salman has become a culinary icon. His dishes reflect his immense skill and dedication, earning him 1200 likes and a loyal fan base. Salman's creations are a true delight for food enthusiasts.",
-  "title": "Beef Bhuna",
-  "recipe": "Ingredients:\n\n500g beef\n2 onions\n4 cloves of garlic\n2-inch ginger\n2 tomatoes\n2 green chilies\n1 tablespoon red chili powder\n1 teaspoon turmeric powder\n1 teaspoon cumin powder\n1 teaspoon coriander powder\n1 teaspoon garam masala\nSalt to taste\nOil for cooking\n\nInstructions:\n\n1. Marinate the beef with salt, turmeric powder, and red chili powder.\n2. Heat oil in a pan and fry the onions until golden brown.\n3. Add the garlic and ginger paste and cook for a minute.\n4. Add the marinated beef and cook until it turns brown.\n5. Add the tomatoes, green chilies, and the remaining spices.\n6. Cover and cook on low heat until the beef is tender and the spices are well blended.\n7. Garnish with coriander leaves and serve hot with rice or naan."
-},
-{
-  "id": "106",
-  "chefPicture": "https://i.ibb.co/4Z3FKH7/ananta.png",
-  "chefName": "Ananta Jalil",
-  "yearsOfExperience": 7,
-  "numberOfRecipes": 35,
-  "likes": 400,
-  "description": "Ananta Jalil, with 7 years of experience, is a talented chef who excels in creating remarkable dishes. With a collection of 35 recipes, Ananta's culinary skills are evident in his unique flavor combinations. Ananta's recipes have garnered 400 likes, showcasing his ability to captivate taste buds with his creations.",
-  "title": "Beef Bhuna",
-  "recipe": "Ingredients:\n\n500g beef\n2 onions\n4 cloves of garlic\n2-inch ginger\n2 tomatoes\n2 green chilies\n1 tablespoon red chili powder\n1 teaspoon turmeric powder\n1 teaspoon cumin powder\n1 teaspoon coriander powder\n1 teaspoon garam masala\nSalt to taste\nOil for cooking\n\nInstructions:\n\n1. Marinate the beef with salt, turmeric powder, and red chili powder.\n2. Heat oil in a pan and fry the onions until golden brown.\n3. Add the garlic and ginger paste and cook for a minute.\n4. Add the marinated beef and cook until it turns brown.\n5. Add the tomatoes, green chilies, and the remaining spices.\n6. Cover and cook on low heat until the beef is tender and the spices are well blended.\n7. Garnish with coriander leaves and serve hot with rice or naan."
-}
+  },
+  {
+    "id": "102",
+    "chefPicture": "https://i.ibb.co/PwLvtZD/nisho.png",
+    "chefName": "Arfan Nisho",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 40,
+    "likes": 300,
+    "description": "Arfan Nisho is a skilled chef with 8 years of experience. Having crafted 40 delightful recipes, Nisho's culinary prowess shines through his creations. His dishes captivate the taste buds of food lovers. With 300 likes, Nisho's recipes are a testament to his talent and dedication.",
+    "recipeName": "Bengali Fish Curry",
+    "ingredients": [
+      "Fish",
+      "Onion",
+      "Tomato",
+      "Turmeric",
+      "Mustard oil"
+    ],
+    "cookingMethod": "1. Marinate the fish with turmeric and salt.\n2. Heat mustard oil in a pan and fry the fish until golden brown. Set aside.\n3. In the same pan, sauté the onions until translucent.\n4. Add the tomatoes and cook until they soften.\n5. Add turmeric, salt, and water to make a gravy.\n6. Add the fried fish and simmer for a few minutes.\n7. Serve hot with steamed rice.",
+    "rating": 4.5,
+    "favorite": false
+  },
+  {
+    "id": "103",
+    "chefPicture": "https://i.ibb.co/sqsBFLQ/Mahfuz.png",
+    "chefName": "Mahfuz ahmed",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 60,
+    "likes": 800,
+    "description": "Mahfuz Ahmed, with 12 years of experience, is a culinary maestro. His repertoire includes 60 delectable recipes that showcase his expertise and innovation. Known for his flavorful dishes, Mahfuz's creations have garnered immense popularity, with 800 likes. His culinary journey is a testament to his passion and commitment.",
+    "recipeName": "Bengali Fish Curry",
+    "ingredients": [
+      "Fish",
+      "Onion",
+      "Tomato",
+      "Turmeric",
+      "Mustard oil"
+    ],
+    "cookingMethod": "1. Marinate the fish with turmeric and salt.\n2. Heat mustard oil in a pan and fry the fish until golden brown. Set aside.\n3. In the same pan, sauté the onions until translucent.\n4. Add the tomatoes and cook until they soften.\n5. Add turmeric, salt, and water to make a gravy.\n6. Add the fried fish and simmer for a few minutes.\n7. Serve hot with steamed rice.",
+    "rating": 4.5,
+    "favorite": false
+  },
+  {
+    "id": "104",
+    "chefPicture": "https://i.ibb.co/wh1qrpJ/shakib.png",
+    "chefName": "Shakib Khan",
+    "yearsOfExperience": 5,
+    "numberOfRecipes": 30,
+    "likes": 200,
+    "description": "Shakib Khan is a talented chef with 5 years of experience. Despite his relatively short career, Shakib has curated 30 impressive recipes that demonstrate his culinary finesse. With 200 likes, Shakib's creations have gained recognition for their unique flavors and presentation.",
+    "recipeName": "Bengali Fish Curry",
+    "ingredients": [
+      "Fish",
+      "Onion",
+      "Tomato",
+      "Turmeric",
+      "Mustard oil"
+    ],
+    "cookingMethod": "1. Marinate the fish with turmeric and salt.\n2. Heat mustard oil in a pan and fry the fish until golden brown. Set aside.\n3. In the same pan, sauté the onions until translucent.\n4. Add the tomatoes and cook until they soften.\n5. Add turmeric, salt, and water to make a gravy.\n6. Add the fried fish and simmer for a few minutes.\n7. Serve hot with steamed rice.",
+    "rating": 4.5,
+    "favorite": false
+  },
+  {
+    "id": "105",
+    "chefPicture": "https://i.ibb.co/Fh8PGXF/salman.png",
+    "chefName": "Salman shah",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 80,
+    "likes": 1200,
+    "description": "Salman Shah is an esteemed chef with a remarkable culinary journey spanning 15 years. With 80 extraordinary recipes, Salman has become a culinary icon. His dishes reflect his immense skill and dedication, earning him 1200 likes and a loyal fan base. Salman's creations are a true delight for food enthusiasts.",
+    "recipeName": "Bengali Fish Curry",
+    "ingredients": [
+      "Fish",
+      "Onion",
+      "Tomato",
+      "Turmeric",
+      "Mustard oil"
+    ],
+    "cookingMethod": "1. Marinate the fish with turmeric and salt.\n2. Heat mustard oil in a pan and fry the fish until golden brown. Set aside.\n3. In the same pan, sauté the onions until translucent.\n4. Add the tomatoes and cook until they soften.\n5. Add turmeric, salt, and water to make a gravy.\n6. Add the fried fish and simmer for a few minutes.\n7. Serve hot with steamed rice.",
+    "rating": 4.5,
+    "favorite": false
+  },
+  {
+    "id": "106",
+    "chefPicture": "https://i.ibb.co/4Z3FKH7/ananta.png",
+    "chefName": "Ananta Jalil",
+    "yearsOfExperience": 7,
+    "numberOfRecipes": 35,
+    "likes": 400,
+    "description": "Ananta Jalil, with 7 years of experience, is a talented chef who excels in creating remarkable dishes. With a collection of 35 recipes, Ananta's culinary skills are evident in his unique flavor combinations. Ananta's recipes have garnered 400 likes, showcasing his ability to captivate taste buds with his creations.",
+    "recipeName": "Bengali Fish Curry",
+    "ingredients": [
+      "Fish",
+      "Onion",
+      "Tomato",
+      "Turmeric",
+      "Mustard oil"
+    ],
+    "cookingMethod": "1. Marinate the fish with turmeric and salt.\n2. Heat mustard oil in a pan and fry the fish until golden brown. Set aside.\n3. In the same pan, sauté the onions until translucent.\n4. Add the tomatoes and cook until they soften.\n5. Add turmeric, salt, and water to make a gravy.\n6. Add the fried fish and simmer for a few minutes.\n7. Serve hot with steamed rice.",
+    "rating": 4.5,
+    "favorite": false
+  }
 ]
