@@ -1,122 +1,56 @@
 [
   {
     "id": "101",
-    "chefPicture": "https://i.ibb.co/K07hvx2/My-project-1.png",
+    "chefPicture": "https://i.ibb.co/Y0J5D1n/My-project-1-10.png",
     "chefName": "Apruba roy",
     "yearsOfExperience": 10,
     "numberOfRecipes": 50,
     "likes": 500,
-    "description": "Apruba Roy is a highly experienced chef with 10 years in the culinary industry. With a portfolio of 50 recipes, Apruba brings creativity and expertise to every dish. Known for his culinary finesse, Apruba's recipes are loved by food enthusiasts. His dedication and passion have earned him a substantial following, with 500 likes on his dishes.",
-    "recipeName": "Bengali Fish Curry",
-    "ingredients": [
-      "Fish",
-      "Onion",
-      "Tomato",
-      "Turmeric",
-      "Mustard oil"
-    ],
-    "cookingMethod": "1. Marinate the fish with turmeric and salt.\n2. Heat mustard oil in a pan and fry the fish until golden brown. Set aside.\n3. In the same pan, sauté the onions until translucent.\n4. Add the tomatoes and cook until they soften.\n5. Add turmeric, salt, and water to make a gravy.\n6. Add the fried fish and simmer for a few minutes.\n7. Serve hot with steamed rice.",
-    "rating": 4.5,
-    "favorite": false
+    "description": "Apruba Roy is a highly experienced chef with 10 years in the culinary industry. With a portfolio of 50 recipes, Apruba brings creativity and expertise to every dish. Known for his culinary finesse, Apruba's recipes are loved by food enthusiasts. His dedication and passion have earned him a substantial following, with 500 likes on his dishes."
   },
   {
     "id": "102",
-    "chefPicture": "https://i.ibb.co/PwLvtZD/nisho.png",
+    "chefPicture": "https://i.ibb.co/DgGfyxx/My-project-1-11.png",
     "chefName": "Arfan Nisho",
     "yearsOfExperience": 8,
     "numberOfRecipes": 40,
     "likes": 300,
-    "description": "Arfan Nisho is a skilled chef with 8 years of experience. Having crafted 40 delightful recipes, Nisho's culinary prowess shines through his creations. His dishes captivate the taste buds of food lovers. With 300 likes, Nisho's recipes are a testament to his talent and dedication.",
-    "recipeName": "Bengali Fish Curry",
-    "ingredients": [
-      "Fish",
-      "Onion",
-      "Tomato",
-      "Turmeric",
-      "Mustard oil"
-    ],
-    "cookingMethod": "1. Marinate the fish with turmeric and salt.\n2. Heat mustard oil in a pan and fry the fish until golden brown. Set aside.\n3. In the same pan, sauté the onions until translucent.\n4. Add the tomatoes and cook until they soften.\n5. Add turmeric, salt, and water to make a gravy.\n6. Add the fried fish and simmer for a few minutes.\n7. Serve hot with steamed rice.",
-    "rating": 4.5,
-    "favorite": false
+    "description": "Arfan Nisho is a skilled chef with 8 years of experience. Having crafted 40 delightful recipes, Nisho's culinary prowess shines through his creations. His dishes captivate the taste buds of food lovers. With 300 likes, Nisho's recipes are a testament to his talent and dedication."
   },
   {
     "id": "103",
-    "chefPicture": "https://i.ibb.co/sqsBFLQ/Mahfuz.png",
+    "chefPicture": "https://i.ibb.co/WKkCc5M/My-project-1-9.png",
     "chefName": "Mahfuz ahmed",
     "yearsOfExperience": 12,
     "numberOfRecipes": 60,
     "likes": 800,
-    "description": "Mahfuz Ahmed, with 12 years of experience, is a culinary maestro. His repertoire includes 60 delectable recipes that showcase his expertise and innovation. Known for his flavorful dishes, Mahfuz's creations have garnered immense popularity, with 800 likes. His culinary journey is a testament to his passion and commitment.",
-    "recipeName": "Bengali Fish Curry",
-    "ingredients": [
-      "Fish",
-      "Onion",
-      "Tomato",
-      "Turmeric",
-      "Mustard oil"
-    ],
-    "cookingMethod": "1. Marinate the fish with turmeric and salt.\n2. Heat mustard oil in a pan and fry the fish until golden brown. Set aside.\n3. In the same pan, sauté the onions until translucent.\n4. Add the tomatoes and cook until they soften.\n5. Add turmeric, salt, and water to make a gravy.\n6. Add the fried fish and simmer for a few minutes.\n7. Serve hot with steamed rice.",
-    "rating": 4.5,
-    "favorite": false
+    "description": "Mahfuz Ahmed, with 12 years of experience, is a culinary maestro. His repertoire includes 60 delectable recipes that showcase his expertise and innovation. Known for his flavorful dishes, Mahfuz's creations have garnered immense popularity, with 800 likes. His culinary journey is a testament to his passion and commitment."
   },
   {
     "id": "104",
-    "chefPicture": "https://i.ibb.co/wh1qrpJ/shakib.png",
+    "chefPicture": "https://i.ibb.co/f2sYQ7v/My-project-1-8.png",
     "chefName": "Shakib Khan",
     "yearsOfExperience": 5,
     "numberOfRecipes": 30,
     "likes": 200,
-    "description": "Shakib Khan is a talented chef with 5 years of experience. Despite his relatively short career, Shakib has curated 30 impressive recipes that demonstrate his culinary finesse. With 200 likes, Shakib's creations have gained recognition for their unique flavors and presentation.",
-    "recipeName": "Bengali Fish Curry",
-    "ingredients": [
-      "Fish",
-      "Onion",
-      "Tomato",
-      "Turmeric",
-      "Mustard oil"
-    ],
-    "cookingMethod": "1. Marinate the fish with turmeric and salt.\n2. Heat mustard oil in a pan and fry the fish until golden brown. Set aside.\n3. In the same pan, sauté the onions until translucent.\n4. Add the tomatoes and cook until they soften.\n5. Add turmeric, salt, and water to make a gravy.\n6. Add the fried fish and simmer for a few minutes.\n7. Serve hot with steamed rice.",
-    "rating": 4.5,
-    "favorite": false
+    "description": "Shakib Khan is a talented chef with 5 years of experience. Despite his relatively short career, Shakib has curated 30 impressive recipes that demonstrate his culinary finesse. With 200 likes, Shakib's creations have gained recognition for their unique flavors and presentation."
   },
   {
     "id": "105",
-    "chefPicture": "https://i.ibb.co/Fh8PGXF/salman.png",
+    "chefPicture": "https://i.ibb.co/HzkM12D/My-project-1-7.png",
     "chefName": "Salman shah",
     "yearsOfExperience": 15,
     "numberOfRecipes": 80,
     "likes": 1200,
-    "description": "Salman Shah is an esteemed chef with a remarkable culinary journey spanning 15 years. With 80 extraordinary recipes, Salman has become a culinary icon. His dishes reflect his immense skill and dedication, earning him 1200 likes and a loyal fan base. Salman's creations are a true delight for food enthusiasts.",
-    "recipeName": "Bengali Fish Curry",
-    "ingredients": [
-      "Fish",
-      "Onion",
-      "Tomato",
-      "Turmeric",
-      "Mustard oil"
-    ],
-    "cookingMethod": "1. Marinate the fish with turmeric and salt.\n2. Heat mustard oil in a pan and fry the fish until golden brown. Set aside.\n3. In the same pan, sauté the onions until translucent.\n4. Add the tomatoes and cook until they soften.\n5. Add turmeric, salt, and water to make a gravy.\n6. Add the fried fish and simmer for a few minutes.\n7. Serve hot with steamed rice.",
-    "rating": 4.5,
-    "favorite": false
+    "description": "Salman Shah is an esteemed chef with a remarkable culinary journey spanning 15 years. With 80 extraordinary recipes, Salman has become a culinary icon. His dishes reflect his immense skill and dedication, earning him 1200 likes and a loyal fan base. Salman's creations are a true delight for food enthusiasts."
   },
   {
     "id": "106",
-    "chefPicture": "https://i.ibb.co/4Z3FKH7/ananta.png",
+    "chefPicture": "https://i.ibb.co/BK3DHfR/My-project-1-6.png",
     "chefName": "Ananta Jalil",
     "yearsOfExperience": 7,
     "numberOfRecipes": 35,
     "likes": 400,
-    "description": "Ananta Jalil, with 7 years of experience, is a talented chef who excels in creating remarkable dishes. With a collection of 35 recipes, Ananta's culinary skills are evident in his unique flavor combinations. Ananta's recipes have garnered 400 likes, showcasing his ability to captivate taste buds with his creations.",
-    "recipeName": "Bengali Fish Curry",
-    "ingredients": [
-      "Fish",
-      "Onion",
-      "Tomato",
-      "Turmeric",
-      "Mustard oil"
-    ],
-    "cookingMethod": "1. Marinate the fish with turmeric and salt.\n2. Heat mustard oil in a pan and fry the fish until golden brown. Set aside.\n3. In the same pan, sauté the onions until translucent.\n4. Add the tomatoes and cook until they soften.\n5. Add turmeric, salt, and water to make a gravy.\n6. Add the fried fish and simmer for a few minutes.\n7. Serve hot with steamed rice.",
-    "rating": 4.5,
-    "favorite": false
+    "description": "Ananta Jalil, with 7 years of experience, is a talented chef who excels in creating remarkable dishes. With a collection of 35 recipes, Ananta's culinary skills are evident in his unique flavor combinations. Ananta's recipes have garnered 400 likes, showcasing his ability to captivate taste buds with his creations."
   }
 ]
